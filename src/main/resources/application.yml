@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: "water-utility"
+  datasource:
+    url: ""
+    username: ""
+    password: ""
